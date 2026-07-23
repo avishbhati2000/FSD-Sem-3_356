@@ -21,3 +21,12 @@ function main() {
   console.log("end main");
 }
 main();
+
+//Javascript - Synchronus and single threaded form.
+//Limitation - Can't perform multiple tasks simultaneously.
+//In asynchronus we use event loop to manage the call stack.
+//Asynchronus call using timers:
+// 1- Set time out.
+// 2- Set immediate.
+// 3- Process.next tick.
+// 4- Set Interval.
