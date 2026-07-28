@@ -14,3 +14,5 @@
 - await -> waits for OS to make the file.
 - To run a js file -> node <filename.js>
 - "await" can be used with any promise in "async" function. That "async" function will be also accessed by "await" keyword.
+- #### JSON -> Javascript Object Notation.
+- {Key:Value} -> Json.
