@@ -16,3 +16,4 @@
 - "await" can be used with any promise in "async" function. That "async" function will be also accessed by "await" keyword.
 - #### JSON -> Javascript Object Notation.
 - {Key:Value} -> Json.
+- utf-8 char code used for programming in web ; used to encode and decode the characters.
