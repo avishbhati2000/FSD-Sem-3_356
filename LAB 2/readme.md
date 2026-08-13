@@ -17,3 +17,4 @@
 - #### JSON -> Javascript Object Notation.
 - {Key:Value} -> Json.
 - utf-8 char code used for programming in web ; used to encode and decode the characters.
+- Trim => Removes all succeeding and preceding whitespaces from string.
