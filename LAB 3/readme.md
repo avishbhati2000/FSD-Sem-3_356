@@ -3,3 +3,18 @@
 - Html - Hyper Text Markup Language
 - CSS - Cascade Style Sheet
 - NPM - Node Package Manager
+## Http Methods:
+- req = url , method , socket , headers.
+- Get - by default any browser.
+- Post
+- Put
+- Patch
+- Delete
+### HTTP Status Codes: 
+- 200 okay
+- 201 created
+- 400 Bad Request
+- 401 UnAuthorized
+- 403 Forbidden
+- 404 Not Found
+- 500 Internal Server Error
